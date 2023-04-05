@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="">
+    {% csrf_token %}
+    <input type="text" placeholder="Enter Name" name="name">
+<input type="email" placeholder="Enter Email" name="email">
+<input type="team" placeholder="Enter Team Name" name="team">
+<div class="form-group">
+    <input type="number" class="form-control  mt-2" placeholder="Age" name="age" required>
+
+</div>
+<input type="number" placeholder="Enter Phone number" name="number">
+<div class="form-group mt-2">
+        <select id="gender" name="gender" class="form-control" required>
+            <option selected>select gender</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+        </select>
+    </div>
+<input type="country" placeholder="Country" name="country">
+<input type="password" placeholder="Enter Password" name="password">
+<button>Submit</button>
+    <table>
+    <thead>
+    <tr>
+        <th>No</th>
+             <th>Name</th>
+              <th>Email</th>
+              <th>Team</th>
+              <th>Age</th>
+             <th>Phone Number</th>
+             <th>Country</th>
+             <th>Password</th>
+        <th>Action</th>
+    </tr>
+{% for d in data %}
+    <tr>
+        <th>{{ d.id }}</th>
+             <th>{{ d.name }}</th>
+              <th>{{ d.email}}</th>
+              <th>{{ d.team}}</th>
+              <th>{{ d.age}}</th>
+             <th>{{ d.number}}</th>
+             <th>{{ d.country}}</th>
+             <th>{{ d.password}}</th>
+    <th>
+
+        <a href="/update/{{ d.id }}">Update</a>
+        <a href="/delete/{{ d.id }}">Delete</a>
+    </th>
+
+    </tr>
+    {% endfor d in data %}
+    </thead>
+</table>
+
+</form>
+</body>
+</html>

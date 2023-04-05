@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a45c91-fe4f-4156-8e77-db3a6be81551" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Anthony/firstgitproject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BLAIZ_TEC/BLAIZ_TEC/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BLAIZ_TEC/BLAIZ_TEC/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BLAIZ_TEC/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BLAIZ_TEC/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MPESADJANGOMORNINGCLASS/MPESADJANGOMORNINGCLASS/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../MPESADJANGOMORNINGCLASS/MPESADJANGOMORNINGCLASS/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MPESADJANGOMORNINGCLASS/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../MPESADJANGOMORNINGCLASS/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEE/Anthony/.idea/Anthony.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEE/tonypy/.idea/tonypy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THE_BAKER/THE_BAKER/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../THE_BAKER/THE_BAKER/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THE_BAKER/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../THE_BAKER/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THE_BAKER_PROJECT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../THE_BAKER_PROJECT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THE_BAKER_PROJECT/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../THE_BAKER_PROJECT/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap_django_morning/bootstrap_django_morning/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_django_morning/bootstrap_django_morning/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap_django_morning/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_django_morning/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap_django_morning/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_django_morning/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap_django_morning/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_django_morning/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap_django_morning/templates/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_django_morning/templates/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap_midmorning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_midmorning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consolatadjangoproject/consolatadjangoproject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../consolatadjangoproject/consolatadjangoproject/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../consolatadjangoproject/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../consolatadjangoproject/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/crud/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/crud/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../crud/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/crud_elvisdjangomidmorning/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/crud_elvisdjangomidmorning/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/crud_elvisdjangomidmorning/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/crud_elvisdjangomidmorning/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../crud_elvisdjangomidmorning/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoELVIS/djangoELVIS/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoELVIS/djangoELVIS/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoMPESA/.env" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoMPESA/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoMPESA/djangoMPESA/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoMPESA/djangoMPESA/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoMPESA/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoMPESA/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/djangoProjectELO254TUESDAY/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/djangoProjectELO254TUESDAY/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/djangoProjectELO254TUESDAY/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/djangoProjectELO254TUESDAY/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/fashion.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/fashion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjectELO254TUESDAY/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjecttemplateelvis/djangoProjecttemplateelvis/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjecttemplateelvis/djangoProjecttemplateelvis/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjecttemplateelvis/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjecttemplateelvis/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjecttemplateelvis/templates/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjecttemplateelvis/templates/about_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjecttemplateelvis/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjecttemplateelvis/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoProjecttemplateelvis/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoProjecttemplateelvis/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangobootstrapelvis/djangobootstrapelvis/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangobootstrapelvis/djangobootstrapelvis/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangobootstrapelvis/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangobootstrapelvis/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangobootstrapelvis/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangobootstrapelvis/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangobootstrapelvis/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangobootstrapelvis/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangobootstrapelvis/templates/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangobootstrapelvis/templates/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoformsmorningclass/djangoformsmorningclass/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoformsmorningclass/djangoformsmorningclass/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoformsmorningclass/djangoformsmorningclass/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoformsmorningclass/djangoformsmorningclass/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangoformsmorningclass/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangoformsmorningclass/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangotemplate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../djangotemplate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/.idea/elvis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/.idea/elvis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvis/pic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elvis/pic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvisdjangoprojecttuesday/elvisdjangoprojecttuesday/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../elvisdjangoprojecttuesday/elvisdjangoprojecttuesday/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elvisdjangoprojecttuesday/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../elvisdjangoprojecttuesday/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/.idea/first python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/IF.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/IF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/data structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/data structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/exempton.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/exempton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/latah.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/latah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/myconnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/myconnection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/myselect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/myselect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/mytable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/mytable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/select.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/trial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first python/vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../latahdjangoproject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../latahdjangoproject/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/createtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/createtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/data_structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/data_structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/data_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/exeption.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/exeption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/if statament.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/if statament.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/link_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/link_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/opperaters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/opperaters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject3/vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject3/vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythongrouping/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythongrouping/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/templates/edit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/templates/edit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tonycrudesystem/tonycrudesystem/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonypython/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tonypython/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tonypython/var.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tonypython/var.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O0UGulfFS1hK65VMaOcqt7Xtwi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="gamingregister" type="Python.DjangoServer" factoryName="Django server">
+      <module name="gamingregister" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a45c91-fe4f-4156-8e77-db3a6be81551" name="Changes" comment="" />
+      <created>1680696901557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680696901557</updated>
+      <workItem from="1680696961594" duration="225000" />
+      <workItem from="1680697322226" duration="280000" />
+      <workItem from="1680697637433" duration="396000" />
+      <workItem from="1680698114625" duration="995000" />
+      <workItem from="1680699211088" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
