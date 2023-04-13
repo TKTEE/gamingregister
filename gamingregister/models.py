@@ -9,7 +9,7 @@ class Register(models.Model):
       number = models.IntegerField()
       gender = models.CharField(max_length=20)
       country = models.CharField(max_length=20)
-      password = models.CharField()
+      password = models.CharField(max_length=30)
 
 def __str__(self):
     return self.name

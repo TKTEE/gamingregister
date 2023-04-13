@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6a45c91-fe4f-4156-8e77-db3a6be81551" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MY PORTFOLIO/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PORTFOLIO/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PORTFOLIO/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MY PORTFOLIO/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Anthony/firstgitproject/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../BLAIZ_TEC/BLAIZ_TEC/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../BLAIZ_TEC/BLAIZ_TEC/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BLAIZ_TEC/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BLAIZ_TEC/templates/index.html" afterDir="false" />
@@ -85,6 +89,14 @@
       <change beforePath="$PROJECT_DIR$/../first python/select.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/select.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../first python/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/trial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../first python/vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/../first python/vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gamingregister.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gamingregister.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamingregister/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/gamingregister/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamingregister/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gamingregister/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamingregister/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/gamingregister/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../latahdjangoproject/latahdjangoproject/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../latahdjangoproject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../latahdjangoproject/main.py" afterDir="false" />
@@ -126,13 +138,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -151,10 +164,13 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/gamify&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -196,6 +212,17 @@
       <workItem from="1680697637433" duration="396000" />
       <workItem from="1680698114625" duration="995000" />
       <workItem from="1680699211088" duration="108000" />
+      <workItem from="1680699390058" duration="1149000" />
+      <workItem from="1681213150794" duration="725000" />
+      <workItem from="1681213914387" duration="271000" />
+      <workItem from="1681215298454" duration="848000" />
+      <workItem from="1681216773590" duration="749000" />
+      <workItem from="1681274287601" duration="49000" />
+      <workItem from="1681383667220" duration="1674000" />
+      <workItem from="1681385770933" duration="2143000" />
+      <workItem from="1681388638153" duration="986000" />
+      <workItem from="1681390700985" duration="136000" />
+      <workItem from="1681391161692" duration="690000" />
     </task>
     <servers />
   </component>

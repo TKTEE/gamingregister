@@ -19,4 +19,8 @@ from django.urls import path
 from .import views
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.displayindex, name='index'),
+    path('delete/<id>', views.deleteData, name='deletedata'),
+    path('update/<id>', views.updateData, name='updatedata'),
+    path('insert', views.inserData, name='insertdata')
 ]
